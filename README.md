@@ -25,7 +25,7 @@ Every project here started the same way. Something took me hours to set up, so I
 
 That habit now has 350k+ Docker pulls and 2,700+ stars behind it. Not bad for a night shift.
 
-Next up is **HolyArrs**: one app for your movies, shows, music and requests, instead of the six most media servers run today.
+The newest one is **[HolyArrs](https://github.com/HolyArrs/HolyArrs)**: one app for your movies, shows, music and requests, instead of the six most media servers run today. 1.0 is out, and it's a beta.
 
 <br>
 
@@ -76,13 +76,15 @@ Live alerts for Channels DVR. See what's playing, who's watching and how much di
 </td>
 <td width="50%" align="center" valign="top">
 <br>
-<a href="https://github.com/HolyArrs"><img src="assets/holyarrs-mark.svg" width="64" alt="HolyArrs" /></a>
+<a href="https://github.com/HolyArrs/HolyArrs"><img src="assets/holyarrs-mark.svg" width="64" alt="HolyArrs" /></a>
 
-### [HolyArrs](https://github.com/HolyArrs)
+### [HolyArrs](https://github.com/HolyArrs/HolyArrs)
 
-One app for your movies, shows, music and requests, instead of six. Free and open source when it launches.
+One app for your movies, shows, music and requests, instead of six. Browse it like a streaming app. About 15 MB.
 
-![Status](https://img.shields.io/badge/status-in%20the%20works-d42a1f?style=flat-square)
+[![Pulls](https://img.shields.io/docker/pulls/holyarrs/holyarrs?style=flat-square&logo=docker&logoColor=white&label=pulls&color=3b82f6)](https://hub.docker.com/r/holyarrs/holyarrs)
+[![Stars](https://img.shields.io/github/stars/HolyArrs/HolyArrs?style=flat-square&logo=github&color=3b82f6)](https://github.com/HolyArrs/HolyArrs)
+[![Release](https://img.shields.io/github/v/release/HolyArrs/HolyArrs?style=flat-square&logo=github&label=release&color=3b82f6)](https://github.com/HolyArrs/HolyArrs/releases/latest)
 <br><br>
 </td>
 </tr>
@@ -90,7 +92,7 @@ One app for your movies, shows, music and requests, instead of six. Free and ope
 
 <div align="center">
 
-<a href="https://github.com/HolyArrs">
+<a href="https://github.com/HolyArrs/HolyArrs">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HolyArrs/.github/main/profile/banner-dark.gif">
   <img alt="HolyArrs. Your own streaming-style request app." src="https://raw.githubusercontent.com/HolyArrs/.github/main/profile/banner-light.gif" width="100%">
